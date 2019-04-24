@@ -1,0 +1,134 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://henry1115.github.io" resolutions="1x" timestamp="1556119788519">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="62322393" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="首頁-favicon.ico" crc="77104118" ref="index"/>
+    <file name="圖片1-01.png" crc="355480929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖片2.png" crc="4203331837" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖片3-01.jpg" crc="4254706014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="206362866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_head.png" crc="10018457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="53225078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_head.png" crc="4243566916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="film maker.png" crc="4040927575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photographer.png" crc="217723145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tel.png" crc="3764289048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10sec_trailer_ver2_moment.jpg" crc="3801710523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="self.png" crc="469106822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="立頓提案30sec_ver2_moment_2.jpg" crc="26374785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="立頓提案.png" crc="376673019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="工作營final_ver1_moment.jpg" crc="3838629405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="工作營.png" crc="3811941729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc05973.jpg" crc="4153250683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc07295.jpg" crc="456548790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00267.jpg" crc="367000351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc06044.jpg" crc="4081387486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc07283.jpg" crc="4100795730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00290.jpg" crc="378970028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc06100.jpg" crc="3992685012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc07265.jpg" crc="4183680103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00218.jpg" crc="339954490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc06103.jpg" crc="4280065721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc07027.jpg" crc="496099685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00286.jpg" crc="361466096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top.png" crc="76763133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arashi.png" crc="3786878703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_1.png" crc="4161836781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_2.png" crc="360340712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part_3.png" crc="3886016737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="風雷電器arashi_ver3_moment2.jpg" crc="3901445440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video.png" crc="212564170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc03472.jpg" crc="4097767650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc03867.jpg" crc="3988534401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc03955.jpg" crc="54370263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="356258518" seo="true" mt="1556119705436" redirect="true"/>
+</manifest>
