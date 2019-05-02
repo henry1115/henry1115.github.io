@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://henry1115.github.io/index.html</loc>
-    <lastmod>2019-04-24</lastmod>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,9 +22,6 @@
     </image:image>
     <image:image>
       <image:loc>https://henry1115.github.io/images/photographer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://henry1115.github.io/images/tel.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://henry1115.github.io/images/10sec_trailer_ver2_moment.jpg</image:loc>
@@ -103,6 +100,27 @@
     </image:image>
     <image:image>
       <image:loc>https://henry1115.github.io/images/dsc03955.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/dsc07561.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/dsc00417.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/dsc00400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/dsc07760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/%E5%90%8D%E8%A8%80.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/henry.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://henry1115.github.io/images/2%E5%B9%B4%E7%B4%9A.png</image:loc>
     </image:image>
   </url>
 </urlset>

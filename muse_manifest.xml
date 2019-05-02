@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://henry1115.github.io" resolutions="1x" timestamp="1556119788519">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://henry1115.github.io" resolutions="1x" timestamp="1556793488527">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="62322393" ref="index"/>
+    <file name="index.css" crc="520690823" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,22 +42,19 @@
     <file name="photographer.png" crc="217723145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tel.png" crc="3764289048" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="10sec_trailer_ver2_moment.jpg" crc="3801710523" seo="true" ref="index">
+    <file name="10sec_trailer_ver2_moment.jpg" crc="381805206" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="self.png" crc="469106822" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="立頓提案30sec_ver2_moment_2.jpg" crc="26374785" seo="true" ref="index">
+    <file name="立頓提案30sec_ver2_moment_2.jpg" crc="77567021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="立頓提案.png" crc="376673019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="工作營final_ver1_moment.jpg" crc="3838629405" seo="true" ref="index">
+    <file name="工作營final_ver1_moment.jpg" crc="376644018" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="工作營.png" crc="3811941729" seo="true" ref="index">
@@ -102,9 +99,6 @@
     <file name="top.png" crc="76763133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arashi.png" crc="3786878703" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="part_1.png" crc="4161836781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -129,6 +123,28 @@
     <file name="dsc03955.jpg" crc="54370263" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dsc07561.jpg" crc="4160308973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00417.jpg" crc="3830991449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc00400.jpg" crc="64455435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc07760.jpg" crc="472777023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="名言.png" crc="285159501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="henry.png" crc="460289074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2年級.png" crc="4279714706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arashi-u348-fr.png" crc="3984500006" ref="index"/>
   </folder>
-  <file name="index.html" crc="356258518" seo="true" mt="1556119705436" redirect="true"/>
+  <file name="index.html" crc="23327323" seo="true" mt="1556791951938" redirect="true"/>
 </manifest>
